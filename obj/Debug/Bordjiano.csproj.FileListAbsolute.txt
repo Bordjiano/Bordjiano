@@ -1,0 +1,55 @@
+D:\Курсачі\Bordjiano\Bordjiano\obj\Debug\Bordjiano.Form1.resources
+D:\Курсачі\Bordjiano\Bordjiano\obj\Debug\Bordjiano.Properties.Resources.resources
+D:\Курсачі\Bordjiano\Bordjiano\obj\Debug\Bordjiano.csproj.GenerateResource.cache
+D:\Курсачі\Bordjiano\Bordjiano\obj\Debug\Bordjiano.csproj.CoreCompileInputs.cache
+D:\Курсачі\Bordjiano\Bordjiano\bin\Debug\Bordjiano.exe.config
+D:\Курсачі\Bordjiano\Bordjiano\bin\Debug\Bordjiano.exe
+D:\Курсачі\Bordjiano\Bordjiano\bin\Debug\Bordjiano.pdb
+D:\Курсачі\Bordjiano\Bordjiano\obj\Debug\Bordjiano.exe
+D:\Курсачі\Bordjiano\Bordjiano\obj\Debug\Bordjiano.pdb
+D:\Курсачі\Bordjiano\Bordjiano\obj\Debug\Bordjiano.csprojAssemblyReference.cache
+D:\Курсачі\Bordjiano\Bordjiano\obj\Debug\Bordjiano.Form2.resources
+D:\Курсачі\Bordjiano\Bordjiano\obj\Debug\Bordjiano.Form3.resources
+D:\Курсачі\Bordjiano\Bordjiano\obj\Debug\Bordjiano.Form4.resources
+D:\Курсачі\Курсова Місюра\Bordjiano\Bordjiano\bin\Debug\Bordjiano.exe.config
+D:\Курсачі\Курсова Місюра\Bordjiano\Bordjiano\bin\Debug\Bordjiano.exe
+D:\Курсачі\Курсова Місюра\Bordjiano\Bordjiano\bin\Debug\Bordjiano.pdb
+D:\Курсачі\Курсова Місюра\Bordjiano\Bordjiano\obj\Debug\Bordjiano.csprojAssemblyReference.cache
+D:\Курсачі\Курсова Місюра\Bordjiano\Bordjiano\obj\Debug\Bordjiano.Form1.resources
+D:\Курсачі\Курсова Місюра\Bordjiano\Bordjiano\obj\Debug\Bordjiano.Form2.resources
+D:\Курсачі\Курсова Місюра\Bordjiano\Bordjiano\obj\Debug\Bordjiano.Form3.resources
+D:\Курсачі\Курсова Місюра\Bordjiano\Bordjiano\obj\Debug\Bordjiano.Form4.resources
+D:\Курсачі\Курсова Місюра\Bordjiano\Bordjiano\obj\Debug\Bordjiano.Properties.Resources.resources
+D:\Курсачі\Курсова Місюра\Bordjiano\Bordjiano\obj\Debug\Bordjiano.csproj.GenerateResource.cache
+D:\Курсачі\Курсова Місюра\Bordjiano\Bordjiano\obj\Debug\Bordjiano.csproj.CoreCompileInputs.cache
+D:\Курсачі\Курсова Місюра\Bordjiano\Bordjiano\obj\Debug\Bordjiano.exe
+D:\Курсачі\Курсова Місюра\Bordjiano\Bordjiano\obj\Debug\Bordjiano.pdb
+D:\Курсачі\Курсова Місюра\Bordjiano\Bordjiano\obj\Debug\Bordjiano.Form5.resources
+F:\Курсачі\Курсова Місюра\Bordjiano\Bordjiano\bin\Debug\Bordjiano.exe.config
+F:\Курсачі\Курсова Місюра\Bordjiano\Bordjiano\bin\Debug\Bordjiano.exe
+F:\Курсачі\Курсова Місюра\Bordjiano\Bordjiano\bin\Debug\Bordjiano.pdb
+F:\Курсачі\Курсова Місюра\Bordjiano\Bordjiano\obj\Debug\Bordjiano.csprojAssemblyReference.cache
+F:\Курсачі\Курсова Місюра\Bordjiano\Bordjiano\obj\Debug\Bordjiano.Form1.resources
+F:\Курсачі\Курсова Місюра\Bordjiano\Bordjiano\obj\Debug\Bordjiano.Form2.resources
+F:\Курсачі\Курсова Місюра\Bordjiano\Bordjiano\obj\Debug\Bordjiano.Form3.resources
+F:\Курсачі\Курсова Місюра\Bordjiano\Bordjiano\obj\Debug\Bordjiano.Form4.resources
+F:\Курсачі\Курсова Місюра\Bordjiano\Bordjiano\obj\Debug\Bordjiano.Form5.resources
+F:\Курсачі\Курсова Місюра\Bordjiano\Bordjiano\obj\Debug\Bordjiano.Properties.Resources.resources
+F:\Курсачі\Курсова Місюра\Bordjiano\Bordjiano\obj\Debug\Bordjiano.csproj.GenerateResource.cache
+F:\Курсачі\Курсова Місюра\Bordjiano\Bordjiano\obj\Debug\Bordjiano.csproj.CoreCompileInputs.cache
+F:\Курсачі\Курсова Місюра\Bordjiano\Bordjiano\obj\Debug\Bordjiano.exe
+F:\Курсачі\Курсова Місюра\Bordjiano\Bordjiano\obj\Debug\Bordjiano.pdb
+C:\Users\laukaaav\OneDrive\Рабочий стол\Курсова Місюра\Bordjiano\Bordjiano\bin\Debug\Bordjiano.exe.config
+C:\Users\laukaaav\OneDrive\Рабочий стол\Курсова Місюра\Bordjiano\Bordjiano\bin\Debug\Bordjiano.exe
+C:\Users\laukaaav\OneDrive\Рабочий стол\Курсова Місюра\Bordjiano\Bordjiano\bin\Debug\Bordjiano.pdb
+C:\Users\laukaaav\OneDrive\Рабочий стол\Курсова Місюра\Bordjiano\Bordjiano\obj\Debug\Bordjiano.csprojAssemblyReference.cache
+C:\Users\laukaaav\OneDrive\Рабочий стол\Курсова Місюра\Bordjiano\Bordjiano\obj\Debug\Bordjiano.Form1.resources
+C:\Users\laukaaav\OneDrive\Рабочий стол\Курсова Місюра\Bordjiano\Bordjiano\obj\Debug\Bordjiano.Form2.resources
+C:\Users\laukaaav\OneDrive\Рабочий стол\Курсова Місюра\Bordjiano\Bordjiano\obj\Debug\Bordjiano.Form3.resources
+C:\Users\laukaaav\OneDrive\Рабочий стол\Курсова Місюра\Bordjiano\Bordjiano\obj\Debug\Bordjiano.Form4.resources
+C:\Users\laukaaav\OneDrive\Рабочий стол\Курсова Місюра\Bordjiano\Bordjiano\obj\Debug\Bordjiano.Form5.resources
+C:\Users\laukaaav\OneDrive\Рабочий стол\Курсова Місюра\Bordjiano\Bordjiano\obj\Debug\Bordjiano.Properties.Resources.resources
+C:\Users\laukaaav\OneDrive\Рабочий стол\Курсова Місюра\Bordjiano\Bordjiano\obj\Debug\Bordjiano.csproj.GenerateResource.cache
+C:\Users\laukaaav\OneDrive\Рабочий стол\Курсова Місюра\Bordjiano\Bordjiano\obj\Debug\Bordjiano.csproj.CoreCompileInputs.cache
+C:\Users\laukaaav\OneDrive\Рабочий стол\Курсова Місюра\Bordjiano\Bordjiano\obj\Debug\Bordjiano.exe
+C:\Users\laukaaav\OneDrive\Рабочий стол\Курсова Місюра\Bordjiano\Bordjiano\obj\Debug\Bordjiano.pdb
